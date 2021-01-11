@@ -21,7 +21,7 @@ def main(args):
         summary_path = './NewPackageNewRun/'
     omega_guess = 0.1    
 
-    print 'Now calculate MLE for pair', paralog
+    print('Now calculate MLE for pair', paralog)
     if args.force:
         if model == 'MG94':
             Force = {5:0.0}

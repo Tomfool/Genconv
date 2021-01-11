@@ -1,6 +1,5 @@
 import numpy as np
 from scipy.linalg import expm
-from CodonGeneconFunc import *
 import matplotlib.pyplot as plt
 
 
